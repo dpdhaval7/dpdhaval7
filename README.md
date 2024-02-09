@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Product Analytics**
 
-- 👨‍💻 All of my projects are available at [https://github.com/dpdhaval7/](https://dpdhaval7.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://github.com/dpdhaval7.github.io/Portfolio](https://dpdhaval7.github.io/Portfolio/)
 
 - 📝 I regularly write articles on [https://www.dhavalprajapati.com/](https://www.dhavalprajapati.com/)
 
