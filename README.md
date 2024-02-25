@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **dpdhaval7@yahoo.com, dhaval.prajapati@somaiya.edu**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/dhavalprajapati92](https://www.linkedin.com/in/dhavalprajapati92)
+- 📄 Know about my experiences [https://www.linkedin.com/in/dpdhaval7](https://www.linkedin.com/in/dhavalprajapati92)
 
 - ⚡ Interesting fact **Love traveling and exploring uncharted territories.**
 
