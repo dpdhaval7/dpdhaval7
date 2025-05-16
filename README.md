@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dpdhaval7&label=Profile%20views&color=0e75b6&style=flat" alt="dpdhaval7" /> </p>
 
-- 🌱 I’m currently learning **Product Analytics**
+- 🌱 I’m currently learning **Supply Chain Analytics**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dpdhaval7.github.io/Portfolio](https://dpdhaval7.github.io/Portfolio/)
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **dpdhaval7@yahoo.com, dhaval.prajapati@somaiya.edu**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/dpdhaval7](https://www.linkedin.com/in/dhavalprajapati92)
+- 📄 Know about my experiences [https://www.linkedin.com/in/dpdhaval7](https://www.linkedin.com/in/dpdhaval7)
 
 - ⚡ Interesting fact **Love traveling and exploring uncharted territories.**
 
