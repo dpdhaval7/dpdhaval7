@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/dpdhaval7.github.io/Portfolio](https://dpdhaval7.github.io/Portfolio/)
 
-- 📝 I regularly write articles on [https://www.dhavalprajapati.com/](https://www.dhavalprajapati.com/)
+- 📝 I regularly write articles on [https://www.dhavalprajapati.com/](https://dhavalprajapati.com)
 
 - 💬 Ask me about **Data Science, Analytics, Hospitality and Travel.**
 
